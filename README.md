@@ -1,2 +1,1 @@
-“#EE201 Spring 2023”
-Lab 1 Excercise
+hi this Esther. This is the Lab 1 excercise for EE201 Spring. 
